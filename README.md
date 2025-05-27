@@ -4,7 +4,7 @@
 
 - <b>Excel Projects)</b>
   - [Sales Dashboard](https://github.com/22fousja/Sales-Dashboard)
-  - [Portfolio Optimization](https://github.com/)
+  - [Portfolio Optimization](https://github.com/22fousja/Portfolio-Optimization)
     
 
 
